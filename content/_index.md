@@ -1,3 +1,3 @@
 ## Contenido
 
-- [[Directorio]] 
+- [Directorio](Directorio.md) 
