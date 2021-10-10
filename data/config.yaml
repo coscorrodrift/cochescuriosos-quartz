@@ -1,12 +1,11 @@
-name: Jacky Zhao
+name: coscorrodrift
 enableToc: true
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  Esto es Coches Curiosos, una web 
 page_title:
-  Quartz Example Page
+  Coches Curiosos
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://twitter.com/cochescuriosos
+  - link_name: Instagram
+    link: https://instagram.com/cochescuriosos
