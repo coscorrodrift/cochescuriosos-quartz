@@ -6,3 +6,11 @@ Crear un "sobre nosotros" como con esos puntos, en plan de "utilizamos documenta
 - [Directorio](Directorio.md)
 
 
+## Mapa
+Esta web está construida como un "jardín digital".
+
+Pede que no sea el formato más apropiado para una base de datos de este tipo, pero como más que una base de datos es una lista de artículos con bastante variabilidad entre la información que hay para cada coche. 
+
+Si se quiere ver en formato de base de datos, he creado una en Airtable: 
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr81RJZufDlQFiUr?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
