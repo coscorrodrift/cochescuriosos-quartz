@@ -14,6 +14,10 @@ Pede que no sea el formato más apropiado para una base de datos de este tipo, p
 Si se quiere ver en formato de base de datos, he creado una en Airtable: 
 
 
-{{< airtable "shr81RJZufDlQFiUr" >}}
+
+
+{{< airtable shr81RJZufDlQFiUr >}}
+
+{{< param id >}}
 
 {{/* <iframe class="airtable-embed" src="https://airtable.com/embed/shr81RJZufDlQFiUr?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>  */}}
